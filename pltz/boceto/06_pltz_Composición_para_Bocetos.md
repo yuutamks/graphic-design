@@ -1,3 +1,0 @@
-La creación de bocetos se trata de cómo llevar las decisiones (conceptos clave) que tomamos anteriormente a definir la estructura, distribución y jerarquía de nuestra pieza sin entrar en muchos detalles.
-
-Comenzamos con varios rectángulos para marcar el formato de la pieza. A partir de este formato, podemos generar diferentes retículas o matrices que nos ayudarán a definir la ubicación de nuestros elementos, podemos definir las cajas o lugares de los elementos principales y, ahora sí, empezar a pensar cómo agregar otros elementos (dibujos, iconos, entre otros).

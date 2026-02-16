@@ -1,6 +1,6 @@
 # El Brief: 
 
-![que es el brief](../src/brief/brief-2.webp)
+![que es el brief](../../src/brief/brief-2.webp)
 
 ### Tu Mapa para Navegar Todo Proyecto Creativo
 
@@ -12,7 +12,7 @@ El brief no es un trámite burocrático; es la **hoja de ruta**, la **constituci
 
 ### ¿Qué es un Brief? Más Allá del Papel
 
-![El Brief](../src/brief/brief-briefing.png)
+![El Brief](../../src/brief/brief-briefing.png)
 
 Técnicamente, un **brief** es un documento informativo que contiene la información esencial para planificar o ejecutar un proyecto. Su objetivo es asegurar que todos los involucrados estén sincronizados.
 
@@ -28,7 +28,7 @@ En el mundo real, el brief es tu **kit de supervivencia**. Imagina que eres un c
 
 ### La Anatomía de un Brief Básico: Tu Checklist Infalible
 
-![Anatomía de un Brief](../src/brief/Anatomía-de-un-Brief.webp)
+![Anatomía de un Brief](../../src/brief/Anatomía-de-un-Brief.webp)
 
 Un buen brief no nace por generación espontánea. Sigue una **lógica de lo general a lo particular** y responde preguntas fundamentales. Piensa en esto como tu lista de verificación antes de despegar:
 
@@ -51,7 +51,7 @@ Un buen brief no nace por generación espontánea. Sigue una **lógica de lo gen
 
 ### Los 6 Pasos del Ritual: Del Brief al Resultado
 
-![Del Brief al Resultado](../src/brief/resultado-briefing.webp)
+![Del Brief al Resultado](../../src/brief/resultado-briefing.webp)
 
 El proceso no termina al entregar el brief. Es un ciclo iterativo donde la comunicación es la protagonista:
 
@@ -68,7 +68,7 @@ El proceso no termina al entregar el brief. Es un ciclo iterativo donde la comun
 
 ### La Familia de los Briefs: Eligiendo al Especialista Correcto
 
-![Familia de los Briefs](../src/brief/Familia-de-Briefs.webp)
+![Familia de los Briefs](../../src/brief/Familia-de-Briefs.webp)
 
 No todos los briefs son iguales. Cada disciplina tiene su variante, como un médico tiene sus especialidades. Conócelas:
 
@@ -102,7 +102,7 @@ Recuerda: un gran diseñador no solo ejecuta, **interpreta**. Y el brief es la p
 
 ## Los Cimientos del Brief: Los Elementos que lo Hacen a Prueba de Errores
 
-![Cimientos del Brief](../src/brief/Cimientos-Brief.webp)
+![Cimientos del Brief](../../src/brief/Cimientos-Brief.webp)
 Anteriormente desentrañamos qué es un brief y por qué es tu hoja de ruta. Hoy vamos a lo concreto: **los elementos no negociables** que lo convierten de un simple documento en un faro que guía cada decisión creativa.
 
 Si el brief es el mapa, estos elementos son la brújula, la escala, los puntos de referencia y la leyenda. Omitir uno es like intentar construir una casa sin cimientos: se verá bien por un momento, pero al primer viento se desmoronará.
@@ -113,7 +113,7 @@ Vamos a destripar la anatomía de un brief poderoso.
 
 ### Contexto: El "Quién" y el "Qué" (Los Pilares)
 
-![El "Quién"](../src/brief/El-Quien.webp)
+![El "Quién"](../../src/brief/El-Quien.webp)
 
 Antes de pedir cualquier cosa, hay que presentarse. Esta sección evita que el equipo creativo trabaje a ciegas.
 
@@ -129,7 +129,7 @@ Antes de pedir cualquier cosa, hay que presentarse. Esta sección evita que el e
 
 ### Estrategia: El "Para Qué" y "Para Quién" (El Cerebro)
 
-![El "Para Qué"](../src/brief/El-Para%20Que.jpeg)
+![El "Para Qué"](../../src/brief/El-Para%20Que.jpeg)
 
 Aquí es donde la magia estratégica sucede. Responder esto separa un *diseño bonito* de un **diseño efectivo.**
 
@@ -145,7 +145,7 @@ Aquí es donde la magia estratégica sucede. Responder esto separa un *diseño b
 
 ### Limitantes y Parámetros: Los Límites que Liberan la Creatividad
 
-![Gajus limites](../src/brief/limites-Gajus.jpg)
+![Gajus limites](../../src/brief/limites-Gajus.jpg)
 
 Esto puede sonar contradictorio, pero los mejores diseños florecen dentro de un marco definido. Estos elementos no son obstáculos, son **el desafío que agudiza tu ingenio.**
 
@@ -165,7 +165,7 @@ Esto puede sonar contradictorio, pero los mejores diseños florecen dentro de un
 
 ### Ejecución: El "Cuándo" y "En Qué Forma" (El Plan de Ataque)
 
-![El "Cuándo" y "En Qué Forma"](../src/brief/El-Cuando.png)
+![El "Cuándo" y "En Qué Forma"](../../src/brief/El-Cuando.png)
 
 La estrategia sin un plan táctico claro es solo una buena intención. Aquí se define la realidad operativa.
 
@@ -181,7 +181,7 @@ La estrategia sin un plan táctico claro es solo una buena intención. Aquí se 
 
 ### El Contra-Briefing: El Paso del Sabio
 
-![El Contra-Briefing](../src/brief/Contra-Briefing.png)
+![El Contra-Briefing](../../src/brief/Contra-Briefing.png)
 
 
 Este es el **elemento secreto** que separa a los novatos de los profesionales.
@@ -218,7 +218,7 @@ Recuerda: Un maestro no teme a los límites, los usa como la estructura sobre la
 
 ## El Kit de Herramientas del Brief: Cómo Elegir la Correcta para Cada Proyecto
 
-![Kit de Herramientas del Brief](../src/brief/Kit_Brief.webp)
+![Kit de Herramientas del Brief](../../src/brief/Kit_Brief.webp)
 
 Has aprendido a construir los cimientos de un brief sólido. Ahora es momento de entender que **no existe un brief único**. Así como no usarías un martillo para atornillar, no usarás el mismo brief para una campaña global que para un post en redes.
 
@@ -228,7 +228,7 @@ Como creativo, tu agilidad para identificar y trabajar con el tipo de brief corr
 
 ### Según el Ritmo: Formalidad del Día a Día
 
-![](../src/brief/Brief-Informal-formal-diario.webp)
+![](../../src/brief/Brief-Informal-formal-diario.webp)
 La formalidad del brief depende de la urgencia, la complejidad y los actores involucrados. Imagina que es el vestuario para la ocasión: hay desde ropa de casa hasta traje de gala.
 
 *   **El Brief Diario (El Parte de Guerra Matutino):**
@@ -247,7 +247,7 @@ La formalidad del brief depende de la urgencia, la complejidad y los actores inv
 
 ### Según el Campo de Batalla: La Disciplina es el Norte
 
-![Tipos de brief](../src/brief/Tipos_de_brief.png)
+![Tipos de brief](../../src/brief/Tipos_de_brief.png)
 
 Cada área creativa tiene sus propias reglas del juego. El brief debe adaptarse a ellas. Esto no es solo semántica; es sobre **hacer las preguntas correctas** desde el inicio.
 
@@ -264,7 +264,7 @@ Cada área creativa tiene sus propias reglas del juego. El brief debe adaptarse 
 ### El Brief de Diseño: Tu Lenguaje Nativo Profundizado
 
 
-![El Brief de Diseño](../src/brief/Brief-de-Diseño.webp)
+![El Brief de Diseño](../../src/brief/Brief-de-Diseño.webp)
 
 Como Director de Arte, vivirás en los briefs de diseño. Vamos a destripar qué debe tener uno impecable:
 
@@ -324,7 +324,7 @@ Recuerda: Un creativo táctico solo ejecuta órdenes. Un **Director de Arte Estr
 
 ## Frameworks: La Caja de Herramientas del Brief
 
-![Frameworks](../src/brief/plantilla-brief-1.webp)
+![Frameworks](../../src/brief/plantilla-brief-1.webp)
 
 ### Del Esqueleto Básico al Framework de Agencia
 
@@ -361,7 +361,7 @@ Piensa en esto como el **kit de primeros auxilios** del briefing. No tiene todo 
 
 ### Los Frameworks de Agencia: Los Trajes a Medida
 
-![frameworks brief](../src/brief/Frameworks-brief.png)
+![frameworks brief](../../src/brief/Frameworks-brief.png)
 
 Cuando el proyecto es complejo, estratégico y multidisciplinario, necesitas un marco de trabajo más robusto. Estos **frameworks** son como los planos de un arquitecto: aseguran que cada habitación (cada aspecto del proyecto) esté donde debe y cumpla una función.
 
@@ -430,7 +430,7 @@ Recuerda: Un principante recibe una orden y corre. Un **Director de Arte** recib
 
 ### Análisis de un Brief Real: El Caso LEGO Navideño
 
-![brief lego](../src/brief/brief-lego.webp)
+![brief lego](../../src/brief/brief-lego.webp)
 
 Has pasado por la teoría, las estructuras y los frameworks. Ahora es momento de ver cómo todo esto late en el mundo real. **Analizar un brief existente es como hacer una autopsia creativa:** aprendes más viendo cómo funcionan los órganos juntos que estudiándolos por separado.
 
@@ -524,7 +524,7 @@ Recuerda: Un brief estratégico es el "qué" y el "por qué". Un brief creativo/
 
 ## Construir y Recibir un Brief: El Arte de la Precisión Creativa
 
-![Recibir un Brief](../src/brief/Recibir-Brief.jpg)
+![Recibir un Brief](../../src/brief/Recibir-Brief.jpg)
 
 Has pasado de ser un espectador a un analista, de entender las piezas a desmontar mecanismos completos. Ahora llega el momento de la verdad: **accionar la maquinaria.** Hoy no hablamos de lo que es un brief, sino de **cómo lo construyes con maestría y cómo lo recibes con criterio.** Esta es la dualidad que define a un profesional completo: ser tanto un arquitecto meticuloso como un detective sagaz.
 
@@ -534,7 +534,7 @@ Como Director de Arte, tu habilidad para **dar y recibir dirección** es lo que 
 
 ### Construir el Brief: No Es Redactar, Es Fundar una Colonia
 
-![SMART](../src/brief/SMART.jpg)
+![SMART](../../src/brief/SMART.jpg)
 
 Construir un brief no es llenar un formulario. Es **sentar las bases de un mundo nuevo** que tu equipo habitará durante semanas o meses. Cada palabra debe ser una piedra angular.
 
@@ -560,7 +560,7 @@ Construir un brief no es llenar un formulario. Es **sentar las bases de un mundo
 
 ### Recibir un Brief: No Es Leer, Es Interrogar la Realidad
 
-![Interrogar la Realidad](../src/brief/Interrogar-Realidad.jpg)
+![Interrogar la Realidad](../../src/brief/Interrogar-Realidad.jpg)
 
 Recibir un brief es un acto de poder. Es el momento donde pasas de ser un ejecutor a un **estratega y consultor.** Tu trabajo no es decir "sí" y correr. Es entender el **problema real** detrás de la solicitud.
 
@@ -580,7 +580,7 @@ Recibir un brief es un acto de poder. Es el momento donde pasas de ser un ejecut
 
 ### La Audiencia: De la Demografía a la Empatía Visual
 
-![La Audiencia](../src/brief/Audiencia.png)
+![La Audiencia](../../src/brief/Audiencia.png)
 
 Definir una audiencia en un brief es el trampolín para la creatividad. Una mala definición te deja en la superficie. Una buena te sumerge en su mundo.
 
@@ -597,7 +597,7 @@ Definir una audiencia en un brief es el trampolín para la creatividad. Una mala
 
 ### Compartir el Proceso: La Inteligencia Colectiva
 
-![Compartir el Proceso](../src/brief/Compartir-Proceso.jpg)
+![Compartir el Proceso](../../src/brief/Compartir-Proceso.jpg)
 
 Guardar tu proceso es como cultivar una planta en un sótano. Compartirlo es plantarla en un bosque.
 

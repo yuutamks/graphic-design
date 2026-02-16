@@ -1,3 +1,0 @@
-Los bocetos nos permiten definir la estructura y jerarquía de nuestra pieza sin entrar en muchos detalles.
-
-Comenzamos con varios rectángulos para marcar el formato de la pieza, a partir de este formato podemos generar una retícula o matriz que nos ayudará a definir la ubicación de las palabras de nuestra frase. Luego podemos definir las cajas con el texto base y, ahora sí, podemos empezar a pensar de qué forma agregamos otros elementos como dibujos o iconos.
